@@ -1,0 +1,11 @@
+{
+  "api": {
+    "baseUrl": "https://script.google.com/macros/s/AKfycbz4a-jsYayyJmSMyCYRUW36Ck9kWKlkfji47426T_88ss15qyFGeyn427sBG7lzoxO0hw/exec",
+    "paramName": "consulta"
+  },
+  "dataset": "tareas",
+  "branding": {
+    "title": "Bitácora de tareas académicas — Leydy Díaz",
+    "subtitle": "Hoja “Tareas académicas” · Registros en “Bitácora tareas”"
+  }
+}
